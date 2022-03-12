@@ -1,4 +1,4 @@
-![profile picture](/ profile-img.png)
+![profile picture](/profile-img.png)
 
 # Hello , wellcome to my webpage
 
