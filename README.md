@@ -8,8 +8,9 @@ I am a freelancer,work for small and medium companies,I write SEO optimized cont
 may be you want something in your landing page that led traffic to sign up for newsletter or may be you want to grow your  __Brand Awareness__  through digital marketing,
 here I come to help ,I write using data analysis that helps multi touch point to enter in marketing funnel.
 
+``` markdown
 # My services
-'''
+
 1. media posts
 2. video scripts
 3. landing page contents
@@ -17,7 +18,8 @@ here I come to help ,I write using data analysis that helps multi touch point to
 5. product description
 6. blogs
 7. brand story 
-'''
+
+```
 
 
 # How I work
@@ -32,8 +34,8 @@ I use consumer psychology studies and neuro-marketing while writing contents ,it
 
  
 ## features
-- [ ] work delivery *before 24* hrs if you book for emergency services,genarally 3 working days.
-- [ ] all written file will be in docx firmat and associated graphics will be send as zip folder
+- [ ] work delivery *before 24* hrs if you book for emergency services, otherwise genarally it takes 3 working days.
+- [ ] all written file will be in docx format and associated graphics will be send as zip folder
 - [ ] customer support through email
 
 ```markdown
@@ -53,6 +55,7 @@ price does not depend on word count rather how hard the work is.Genarally I char
 - [my twiter](https://mobile.twitter.com/anueya1)
 - [my medium](medium.com)
 - [email](google.com)
--phone:0000986510
+- phone-0000000000
+
 
 ## kolkata,India
