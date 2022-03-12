@@ -1,4 +1,4 @@
-![profile picture](https://drive.google.com/file/d/1qlM7LGFDvLY9K1hgWsAMeMEDMlTuJV6H/view?usp=sharing)
+![profile picture](/ profile-img.png)
 
 # Hello , wellcome to my webpage
 
