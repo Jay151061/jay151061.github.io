@@ -1,4 +1,4 @@
-![profile picture](/profile-img1.png)
+![profile picture](https://raw.githubusercontent.com/Jay151061/jay151061.github.io/main/profile-img1.png)
 
 # Hello , wellcome to my webpage
 
